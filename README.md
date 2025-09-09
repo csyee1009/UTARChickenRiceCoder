@@ -4,5 +4,5 @@ Prototype Link for interactive interface
 
 Add missing dependency:
 
-Animation of pet drawn using application: Procreate
+Animation of pet drawn using application: Procreate +
 Supporting documment fixed for minor typo errors.
